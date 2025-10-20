@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+torch
+torchvision
+tensorflow
+joblib
+psutil
+numpy
+openai
+ptflops
+python-multipart
